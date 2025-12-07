@@ -2,89 +2,97 @@
 
 ---
 
-## 🖌️ Project Overview
-This project analyzes airline passenger data to identify key factors affecting satisfaction and dissatisfaction. It applies predictive models to forecast passenger satisfaction levels and builds an interactive dashboard to visualize insights and provide actionable recommendations.
+## 📌 Table of Contents
+- [Overview](#-project-overview)
+- [Team](#-team-members--roles)
+- [Timeline](#-project-timeline)
+- [Deliverables](#-project-deliverables)
+- [Tech Stack](#-tech-stack)
+- [Analysis Questions](#-key-analysis-questions)
+- [Forecasting Questions](#-key-forecasting-questions)
+- [KPIs](#-kpis)
+- [Resources](#-project-resources)
+- [License](#-license)
 
-The main goal is to transform raw airline data into meaningful insights that help airlines improve passenger experience and service quality.
+---
+
+## 🖌️ Project Overview
+This project analyzes airline passenger data to uncover satisfaction levels, identify dissatisfaction drivers, and build predictive models to forecast passenger satisfaction.  
+An interactive Power BI dashboard visualizes insights and supports decision-making.
 
 ---
 
 ## 👥 Team Members & Roles
-- **Abdelrahman Atef** → Project Manager / Lead Data Scientist
-- **Mohamed Ashraf** → Data Engineer (Collection & Preprocessing)
-- **Hasnaa Hatem** → Database & Analytics Support
-- **Abeer Osama** → Data Analyst (Exploratory Analysis)
-- **Abdelrahman Mohamed** → Data Scientist (Forecasting & Modeling)
-- **Mostafa Mahmoud** → BI Developer (Visualization, Insights & Presentation)
+| Name | Role |
+|------|------|
+| **Abdelrahman Atef** | Project Manager / Lead Data Scientist |
+| **Mohamed Ashraf** | Data Engineer |
+| **Hasnaa Hatem** | Database & Analytics Support |
+| **Abeer Osama** | Data Analyst |
+| **Abdelrahman Mohamed** | Data Scientist (Modeling) |
+| **Mostafa Mahmoud** | BI Developer (Dashboard & Insights) |
 
 ---
 
 ## 📅 Project Timeline (4 Weeks)
 
-| Week | Key Activities & Deliverables |
-|------|-------------------------------|
-| **Week 1** | Data Cleaning & Preprocessing. Deliverable: Cleaned Dataset |
-| **Week 2** | Exploratory Data Analysis (EDA) & Feature Engineering. Deliverable: Jupyter Notebook with initial analysis |
-| **Week 3** | Predictive Modeling: Train models to forecast passenger satisfaction and identify influential features |
-| **Week 4** | Dashboard Design & Final Report Preparation. Deliverable: Power BI Interactive Dashboard |
+| Week | Deliverables |
+|------|-------------|
+| **1** | Data Cleaning & Preprocessing |
+| **2** | EDA & Feature Engineering |
+| **3** | Predictive Modeling |
+| **4** | Power BI Dashboard + Final Report |
 
 ---
 
 ## 📂 Project Deliverables
 
-- **Cleaned Dataset (.csv / Excel):** [Google Sheets Link](https://docs.google.com/spreadsheets/d/1XK-aIv60iySEIOEoNlltSb9y2XdXdZa5/edit?usp=sharing&ouid=112964731462624205278&rtpof=true&sd=true)
-- **Jupyter Notebook (.ipynb):** [Google Drive Link](https://drive.google.com/file/d/1gqlanDch8YIfHmK-vzxlavyEq46ZczA0/view?usp=sharing)
-- **Power BI Dashboard (.pbix):** [Google Drive Link](https://drive.google.com/file/d/1Ytpv-vxPtIo2qBw-mT_NO2s3pR4F1bCe/view?usp=sharing)
-- **Poster & Logo (Visual Identity):** [Google Drive Link](https://drive.google.com/drive/folders/1K9BEsqaXPvEGpAeuW2z7GKqh0zROBOBM?usp=sharing)
-- **Complementary Products /**Presentation:** [Google Drive Link](https://drive.google.com/file/d/1VgHKmz4-CPOED0WSsYGyRkgehygwRp_m/view?usp=sharing)
-
-
+- **Cleaned Dataset:** [Drive File](https://docs.google.com/spreadsheets/d/1XK-aIv60iySEIOEoNlltSb9y2XdXdZa5/edit?usp=sharing)  
+- **Jupyter Notebook:** [Drive File](https://drive.google.com/file/d/1gqlanDch8YIfHmK-vzxlavyEq46ZczA0/view?usp=sharing)  
+- **Power BI Dashboard (.pbix):** [Drive File](https://drive.google.com/file/d/1Ytpv-vxPtIo2qBw-mT_NO2s3pR4F1bCe/view?usp=sharing)  
+- **Poster & Visual Identity:** [Drive File](https://drive.google.com/drive/folders/1K9BEsqaXPvEGpAeuW2z7GKqh0zROBOBM?usp=sharing)  
+- **Presentation:** [Drive File](https://drive.google.com/file/d/1VgHKmz4-CPOED0WSsYGyRkgehygwRp_m/view?usp=sharing)
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **Python:** pandas, matplotlib, scikit-learn (for data cleaning, analysis, and predictive modeling)
-- **Excel:** Data preprocessing, quick analysis, basic reporting
-- **Power BI:** Dashboard design, interactive visualization, KPI tracking
+- **Python:** pandas, scikit-learn, matplotlib  
+- **Excel:** preprocessing & quick analytics  
+- **Power BI:** dashboard, storytelling, KPIs  
 
 ---
 
 ## 📊 Key Analysis Questions
-
-- Which passenger groups report the highest satisfaction?
-- What are the main factors driving dissatisfaction (e.g., delays, service, comfort)?
-- Are there specific flight routes or times with lower satisfaction levels?
-- What percentage of passengers are dissatisfied with different service categories?
+- Which passenger segments show the highest satisfaction?  
+- What factors contribute most to dissatisfaction?  
+- Are there routes/times with lower satisfaction?  
+- How do service categories impact overall score?
 
 ---
 
 ## 📊 Key Forecasting Questions
-
-- Will a passenger be satisfied with their flight experience?
-- Which service attributes most influence satisfaction (e.g., cleanliness, food, WiFi)?
-- What is the probability of dissatisfaction for different passenger segments?
-- How will satisfaction rates change in the next quarter if current trends continue?
+- Will the passenger be satisfied?  
+- Which service attributes affect satisfaction the most?  
+- Probability of dissatisfaction per passenger segment  
+- How satisfaction may change next quarter
 
 ---
 
-## 📂 KPIs (Key Performance Indicators) ❓
-*(To be added later)*
+## 📟 KPIs
+*(To be added in the next update)*
 
 ---
 
 ## 📂 Project Resources
-[Google Drive Link](https://drive.google.com/drive/folders/1nTaXCfuD3PSUjwIVex30jVy3Qm4BJx7l?usp=sharing)
+**Main Folder:** [Drive File](https://drive.google.com/drive/folders/1nTaXCfuD3PSUjwIVex30jVy3Qm4BJx7l?usp=sharing)
 
 ---
 
-## Instructor
+## 👨‍🏫 Instructor
 **ENG/Kareem Bakli**
 
 ---
 
-## License
-This project is licensed under a restricted internal license.  
-Modification and reuse are permitted only for the project team members, the instructor (**Kareem Bakli**), and the **Digital Egypt Pioneers Initiative** administration after project submission.
-
-
+## 📜 License
+Restricted internal use.  
+Allowed for team members, instructor, and DEPI administration only.
