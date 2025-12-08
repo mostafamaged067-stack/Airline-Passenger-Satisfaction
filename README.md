@@ -65,7 +65,7 @@ The main goal is to transform raw airline data into meaningful insights that hel
 ---
 
 ## 📂 Project Resources
-[Google Drive Link]([https://drive.google.com/drive/folders/1nTaXCfuD3PSUjwIVex30jVy3Qm4BJx7l?usp=sharing](https://drive.google.com/drive/folders/1G31h_c_0i3H5F6Gi00QuXuEvIO104rJz?usp=sharing))
+[Google Drive Link](https://drive.google.com/drive/folders/1G31h_c_0i3H5F6Gi00QuXuEvIO104rJz?usp=sharing)
 
 ---
 
