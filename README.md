@@ -80,7 +80,7 @@ The outcomes of this project are designed to help airlines enhance service quali
 
 * **Data & Documentation:** Google Drive Repository
 
-  * Access Link: *(Restricted Access)*
+  * Access Link: [Google Drive Folder](https://drive.google.com/drive/folders/1G31h_c_0i3H5F6Gi00QuXuEvIO104rJz?usp=sharing)
 
 ---
 
