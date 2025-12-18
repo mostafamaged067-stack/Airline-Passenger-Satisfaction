@@ -1,81 +1,101 @@
-# 🛫 Airline Passenger Satisfaction Project
+# ✈️ Airline Passenger Satisfaction Analytics Project
 
 ---
 
-## 🖌️ Project Overview
-This project analyzes airline passenger data to identify key factors affecting satisfaction and dissatisfaction. It applies predictive models to forecast passenger satisfaction levels and builds an interactive dashboard to visualize insights and provide actionable recommendations.
+## Executive Summary
 
-The main goal is to transform raw airline data into meaningful insights that help airlines improve passenger experience and service quality.
+This project delivers a comprehensive analytical and predictive study of airline passenger satisfaction. By transforming raw operational and survey data into actionable insights, the project identifies the primary drivers of satisfaction and dissatisfaction, forecasts passenger sentiment, and supports data-driven decision-making through an interactive business intelligence dashboard.
 
----
-
-## 👥 Team Members & Roles
-| Name | Role |
-|------|------|
-| **Abdelrahman Atef** | Project Manager / Lead Data Scientist |
-| **Mohamed Ashraf** | Data Engineer |
-| **Hasnaa Hatem** | Database & Analytics Support |
-| **Abeer Osama** | Data Analyst |
-| **Abdelrahman Mohamed** | Data Scientist (Modeling) |
-| **Mostafa Mahmoud** | BI Developer (Dashboard & Insights) |
+The outcomes of this project are designed to help airlines enhance service quality, improve customer experience, and proactively address areas that negatively impact passenger satisfaction.
 
 ---
 
-## 📅 Project Timeline (4 Weeks)
+## Project Objectives
 
-| Week | Key Activities & Deliverables |
-|------|-------------------------------|
-| **Week 1** | Data Cleaning & Preprocessing. Deliverable: Cleaned Dataset |
-| **Week 2** | Exploratory Data Analysis (EDA) & Feature Engineering. Deliverable: Jupyter Notebook with initial analysis |
-| **Week 3** | Predictive Modeling: Train models to forecast passenger satisfaction and identify influential features |
-| **Week 4** | Dashboard Design & Final Report Preparation. Deliverable: Power BI Interactive Dashboard |
-
----
-
-
-## 🛠️ Tech Stack
-
-- **Python:** pandas, matplotlib, scikit-learn (for data cleaning, analysis, and predictive modeling)
-- **Excel:** Data preprocessing, quick analysis, basic reporting
-- **Power BI:** Dashboard design, interactive visualization, KPI tracking
+* Analyze passenger behavior and service quality metrics to determine key satisfaction drivers.
+* Identify passenger segments with the highest and lowest satisfaction levels.
+* Develop predictive models to forecast passenger satisfaction.
+* Visualize insights using an interactive dashboard for stakeholders.
+* Provide data-backed recommendations to improve airline services and operational efficiency.
 
 ---
 
-## 📊 Key Analysis Questions
+## Team Structure & Responsibilities
 
-- Which passenger groups report the highest satisfaction?
-- What are the main factors driving dissatisfaction (e.g., delays, service, comfort)?
-- Are there specific flight routes or times with lower satisfaction levels?
-- What percentage of passengers are dissatisfied with different service categories?
-
----
-
-## 📊 Key Forecasting Questions
-
-- Will a passenger be satisfied with their flight experience?
-- Which service attributes most influence satisfaction (e.g., cleanliness, food, WiFi)?
-- What is the probability of dissatisfaction for different passenger segments?
-- How will satisfaction rates change in the next quarter if current trends continue?
+| Team Member             | Role & Responsibilities                                                                                         |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Abdelrahman Atef**    | Project Manager & Lead Data Scientist – Project planning, methodology design, and overall technical supervision |
+| **Mohamed Ashraf**      | Data Engineer – Data extraction, cleaning pipelines, and dataset optimization                                   |
+| **Hasnaa Hatem**        | Database & Analytics Support – Data validation, integrity checks, and analytical assistance                     |
+| **Abeer Osama**         | Data Analyst – Exploratory Data Analysis (EDA), insights generation, and reporting                              |
+| **Abdelrahman Mohamed** | Data Scientist – Predictive modeling, feature selection, and model evaluation                                   |
+| **Mostafa Mahmoud**     | BI Developer – Power BI dashboard development, KPIs design, and insight storytelling                            |
 
 ---
 
-## 📂 KPIs (Key Performance Indicators) ❓
-*(To be added later)*
+## Project Roadmap (4-Week Timeline)
+
+| Phase      | Activities                                                            | Deliverables                                      |
+| ---------- | --------------------------------------------------------------------- | ------------------------------------------------- |
+| **Week 1** | Data collection, cleaning, preprocessing, and handling missing values | Cleaned & structured dataset                      |
+| **Week 2** | Exploratory Data Analysis (EDA) and feature engineering               | Jupyter Notebook with insights and visualizations |
+| **Week 3** | Predictive modeling and evaluation of satisfaction outcomes           | Trained models and feature importance analysis    |
+| **Week 4** | Dashboard development and final documentation                         | Interactive Power BI dashboard & final report     |
 
 ---
 
-## 📂 Project Resources
-[Google Drive Link](https://drive.google.com/drive/folders/1G31h_c_0i3H5F6Gi00QuXuEvIO104rJz?usp=sharing)
+## Technology Stack
+
+* **Python:** pandas, NumPy, matplotlib, scikit-learn for data processing, visualization, and machine learning
+* **Microsoft Excel:** Preliminary data exploration, validation, and summary reporting
+* **Power BI:** Interactive dashboards, KPI monitoring, and executive-level reporting
 
 ---
 
-## Instructor
-**ENG/Kareem Bakli**
+## Analytical Questions
+
+* Which passenger segments demonstrate the highest satisfaction levels?
+* What are the primary contributors to passenger dissatisfaction (e.g., delays, seat comfort, onboard services)?
+* Are there specific travel times, routes, or flight conditions associated with lower satisfaction?
+* How does satisfaction vary across different service categories?
 
 ---
 
-## License
-This project is licensed under a restricted internal license.  
-Modification and reuse are permitted only for the project team members, the instructor (**Kareem Bakli**), and the **Digital Egypt Pioneers Initiative** administration after project submission.
+## Predictive & Forecasting Questions
 
+* Can passenger satisfaction be accurately predicted prior to or after the flight?
+* Which service attributes have the strongest influence on satisfaction outcomes?
+* What is the likelihood of dissatisfaction for specific passenger profiles?
+* How are satisfaction trends expected to evolve in the upcoming quarter based on current data?
 
+---
+
+## Key Performance Indicators (KPIs)
+
+*(To be defined and finalized during the dashboard development phase)*
+
+---
+
+## Project Resources
+
+* **Data & Documentation:** Google Drive Repository
+
+  * Access Link: *(Restricted Access)*
+
+---
+
+## Academic Supervision
+
+**ENG. Kareem Bakli**
+
+---
+
+## License & Usage Policy
+
+This project is governed by a restricted internal license. Modification, reuse, or distribution is permitted exclusively for:
+
+* Project team members
+* Course instructor (**ENG. Kareem Bakli**)
+* **Digital Egypt Pioneers Initiative** administration
+
+Any external use requires prior written approval after project submission.
